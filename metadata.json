@@ -1,0 +1,6 @@
+{
+  "name": "AI Chess",
+  "description": "An elegant, premium Chess application featuring conversational single-player gameplay vs distinct Gemini AI profiles and a local pass-and-play matches mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
